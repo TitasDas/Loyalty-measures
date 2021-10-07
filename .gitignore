@@ -1,0 +1,7 @@
+#ignore data repository except README.md
+data/*
+!data/README.md
+
+#ignore cache
+__cache__/
+.ipynb_checkpoints/
